@@ -19,8 +19,8 @@ https://www.jd9913.com
 
 ## Github Repository
 
-https://github.com/jd9913/jd9913-portfolio-newStart
+https://github.com/jd9913/jd9913
 
-![screenshot](https://github.com/jd9913/jd9913/blob/master/sreenshot-profile.jpg)
+![screenshot](https://github.com/jd9913/jd9913/blob/main/sreenshot-profile.jpg)
 
 ### ©️2020 Jennifer Schlierman
